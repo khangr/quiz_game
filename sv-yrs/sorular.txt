@@ -1,0 +1,4 @@
+?stanbul'un ba?kenti neresidir?:#:Ankara:#:Beykoz:#:Kenya:#:b
+Türkiye'nin ba?kenti neresidir?:#:Ankara:#:Beykoz:#:Kenya:#:a
+1 metre kaç santimdir?:#:100:#:1000:#:10000:#:a
+Alt?n kaç lirad?r?:#:100:#:1000:#:10000:#:a
